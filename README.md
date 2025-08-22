@@ -18,14 +18,12 @@
   <img alt="" src="https://img.shields.io/github/repo-size/RafaelGoulartB/nodejs-ecommerce?color=03B0E8" />
 </p>
 
-> Ecommerce made with Node.js - MVC
+> Ecommerce made with Node.js 
 
 
 <div align="center">
-  <sub>The ecommerce project. Built with ❤︎ by
-    <a href="https://github.com/RafaelGoulartB">Rafael Goulart</a> and
-    <a href="https://github.com/RafaelGoulartB/nodejs-ecommerce/graphs/contributors">
-      contributors
+  <sub>The ecommerce project. Built by
+    <a href="https://github.com/harsh4real">Harsh Bisht </a> 
     </a>
   </sub>
 </div>
